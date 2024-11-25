@@ -7,14 +7,14 @@ import {
   Route,
   RouterProvider,
 } from 'react-router-dom';
-import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomeScreen from './screens/HomeScreen';
 
+// Create the router using createBrowserRouter
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path='/' element={<App />}>
-      <Route index={true} path='/' element={<HomeScreen />} />
+    <Route path="/" element={<App />}>
+      <Route index={true} element={<HomeScreen />} />
     </Route>
   )
 );
