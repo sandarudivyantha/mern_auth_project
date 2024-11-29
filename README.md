@@ -67,8 +67,8 @@ JWT_SECRET=your_secret_key
 
 ## Installation and Setup
 
-```
 ### Steps
+```
 1. Clone the repository:
    ```bash
    git clone https://github.com/sandarudivyantha/mern_auth_project.git
@@ -89,5 +89,5 @@ JWT_SECRET=your_secret_key
 ## Screenshots
 ![1 1 1](https://github.com/user-attachments/assets/63e3214c-18dd-4ee0-8da4-31d434382291)
 ![1 1](https://github.com/user-attachments/assets/64dec5ce-6d79-40b9-8e04-92af7faa7973)
-![2](https://github.com/![3](https://github.com/user-attachments/assets/34fdc309-619e-4e4d-b886-d2d7a8bb774b)
-![3](https://github.com/user-attachments/assets/b5420167-8b6e-4ed6-ae5e-bd23aefcbb6b)
+![2](https://github.com/user-attachments/assets/76bc5ef1-9832-456c-b4b6-0bfa67b93549)
+![3](https://github.com/user-attachments/assets/f6f9bc9b-02a6-48a5-a3fb-49d3ef8e2074)
